@@ -1,10 +1,14 @@
-import Home from "./Pages/Home";
-// import Login from "./pages/login/Login";
-// import Profile from "./pages/profile/Profile";
-// import Register from "./pages/register/Register";
+// import Home from "./Pages/Home";
+// import Login from "./Pages/Login";
+// import Profile from "./Pages/Profile";
+// import Register from "./Pages/Register";
+
+
+
+import Register from "./Pages/Register";
 
 function App() {
-  return <Home/>;
+  return <Register/>;
 }
 
 export default App;

@@ -1,8 +1,8 @@
 import "./Profile.css";
 import Topbar from "../Components/topbar";
-// import Sidebar from "../../components/sidebar/Sidebar";
-// import Feed from "../../components/feed/Feed";
-// import Rightbar from "../../components/rightbar/Rightbar";
+// import Sidebar from "../../components/Sidebar";
+// import Feed from "../../components/Feed";
+// import Rightbar from "../../components/Rightbar";
 
 export default function Profile() {
   return (
@@ -15,12 +15,12 @@ export default function Profile() {
             <div className="profileCover">
               <img
                 className="profileCoverImg"
-                // src="assets/post/3.jpeg"
+                src="assets/3.jpeg"
                 alt=""
               />
               <img
                 className="profileUserImg"
-                // src="assets/person/7.jpeg"
+                src="assets/7.jpeg"
                 alt=""
               />
             </div>
